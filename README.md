@@ -1,4 +1,4 @@
-## Hi there 👋
+![snake gif](https://github.com/Toxin4ick/Toxin4ick/blob/output/github-snake-dark.svg)
 
 <!--
 **Toxin4ick/Toxin4ick** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
